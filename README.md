@@ -10,5 +10,5 @@ Skills: Dart − flutter − OOP − clean architecture − clean code − solid
 - 🌱 I’m currently learning Advanced topics for Flutter 
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/belal-ayman-6036192a6/)  
 
