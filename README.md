@@ -1,12 +1,14 @@
 ### Hi there 👋,'I'm Belal Ayman
 #### Flutter Developer
-I'm Belal from Egypt , and I works as Junior flutter developer at Thinkadv. I really enjoy learning languages and frameworks like Flutter
+ 
+I’m Belal, a Flutter developer with a passion for crafting elegant and efficient mobile applications. My journey began as a computer science https://github.com/Belalaym2n/Belalaym2n/blob/main/README.md
+student, where I honed my skills in languages and frameworks like Flutter. I thrive on turning ideas into reality, whether it’s solving complex 
+problems independently or collaborating with a team. Staying up-to-date with industry trends is essential to me, and I bring enthusiasm and 
+dedication to every project I work on 
 
 
-
-Skills: Dart − flutter − OOP − clean architecture − clean code − solid principles − rest API − database − firebase − admin panel − design pattern − Bloc − cubit − provider / self − learning − Communication skills
-
-- 🔭 I’m currently working on ThinkAdv 
+- 🔭 former Mobile application developer atMAS FM
+- 🔭 former flutter developer at ThinkAdv
 - 🌱 I’m currently learning Advanced topics for Flutter 
 
 
