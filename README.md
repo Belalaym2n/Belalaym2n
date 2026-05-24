@@ -42,22 +42,10 @@ I’m always eager to learn, grow, and deliver high-quality solutions that creat
 
  
  
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+ 
  
  
 
-<div align="center">
- 
-<br/>
-
-*I'm always open to discussing exciting projects, collaboration opportunities, or just a great tech conversation.*
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/belal-ayman-6036192a6)
 &nbsp;
@@ -68,20 +56,12 @@ I’m always eager to learn, grow, and deliver high-quality solutions that creat
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201114324251)
  
 <br/>
-
  
-&nbsp;
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/YOUR_STACKOVERFLOW)
-
 </div>
 
 <br/>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     FOOTER WAVE                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+ 
 
 <div align="center">
 
