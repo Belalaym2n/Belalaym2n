@@ -10,36 +10,9 @@
 <!--                   ANIMATED TYPING ROLE                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E3652F&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%9A%80;Mobile+Engineer+%7C+iOS+%26+Android;UI%2FUX+Enthusiast+%7C+Clean+Architecture;Published+on+Google+Play+%26+App+Store;Building+Scalable+Products+%7C+9%2B+Projects)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    VISITOR + STATUS BADGES                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB&style=for-the-badge&color=00456B&label=PROFILE+VIEWS)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-E3652F?style=for-the-badge&logo=statuspage&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/Based%20in-Egypt-00456B?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `{ About Me }`
-
+ 
+ 
+ 
 </div>
 
 <br/>
