@@ -43,33 +43,25 @@
 </div>
 
 <br/>
+<td width="62%">
 
-```dart
-class Belal extends FlutterDeveloper {
+# Hey, I'm Belal 👋
 
-  final String  name        = "Belal";
-  final String  role        = "Flutter Developer • Mobile Engineer • UI Enthusiast";
-  final String  degree      = "Computer Science";
-  final String  location    = "Egypt 🇪🇬  — Available Globally 🌍";
+### Flutter Developer • Mobile Engineer • UI Enthusiast
 
-  final List<String> expertise = [
-    "Cross-platform Mobile Development (Flutter / Dart)",
-    "Clean Architecture & Scalable App Design",
-    "Performance Optimization & Smooth Animations",
-    "Modern UI/UX — Pixel-perfect Interfaces",
-    "Professional Product Engineering",
-  ];
+I’m **Belal**, a Flutter developer passionate about building modern, efficient, and visually appealing digital products. With a background in **Computer Science**, I enjoy transforming ideas into scalable and functional solutions.  
 
-  final Map<String, dynamic> highlights = {
-    "projects"     : "9+ production-grade applications",
-    "platforms"    : ["Google Play", "App Store"],
-    "clients"      : ["Egypt", "International"],
-    "deliverables" : ["Mobile Apps", "Web Platforms", "Dashboards"],
-  };
+I have developed and delivered **9+ production projects** including mobile applications, web platforms, and dashboards for clients in **Egypt** and internationally, ensuring smooth performance and successful deployments on platforms such as **Google Play** and the **App Store**.  
 
-  String get motto => "Clean code. Beautiful UI. Scalable products.";
-}
-```
+I’m always eager to learn, grow, and deliver high-quality solutions that create real impact.
+
+<br/>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="34" width="34"/>
+</a>
 
 <br/>
 
