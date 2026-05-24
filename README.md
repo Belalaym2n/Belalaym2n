@@ -20,7 +20,7 @@
 
 # Hey, I'm Belal 👋
 
-### Flutter Developer • Mobile Engineer • UI Enthusiast
+### Flutter Developer • Mobile Engineer 
 
 I’m **Belal**, a Flutter developer passionate about building modern, efficient, and visually appealing digital products. With a background in **Computer Science**, I enjoy transforming ideas into scalable and functional solutions.  
 
@@ -32,9 +32,7 @@ I’m always eager to learn, grow, and deliver high-quality solutions that creat
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" height="34" width="34"/>
-</a>
+ 
 
 <br/>
 
