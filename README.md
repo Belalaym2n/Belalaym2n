@@ -63,11 +63,7 @@ I’m always eager to learn, grow, and deliver high-quality solutions that creat
 
 <div align="center">
 
-<br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
-
-<br/>
+ 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E3652F,50:1a6b96,100:00456B&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
