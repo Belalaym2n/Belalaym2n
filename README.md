@@ -40,57 +40,8 @@ I’m always eager to learn, grow, and deliver high-quality solutions that creat
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### `{ Tech Stack }`
-
-<br/>
-
-**📱 Mobile & Core**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-<br/>
-
-**🏗️ Architecture & State**
-
-![BLoC](https://img.shields.io/badge/BLoC-00456B?style=for-the-badge&logo=databricks&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=for-the-badge&logo=dart&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-E3652F?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1a6b96?style=for-the-badge&logo=buffer&logoColor=white)
-
-<br/>
-
-**☁️ Backend & Services**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-00456B?style=for-the-badge&logo=postman&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-<br/>
-
-**🛠️ Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
-<br/>
-
+ 
+ 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
